@@ -4,10 +4,10 @@
 HumanMachineGaming is a thesis project on human-robot interaction(HRI). This work so far includes the complete code for a pair 
 or multiple human pairs to play matrix games (Prisoner's Dilemma, Chicken and Blocks are included so far, but you can play your 
 own game by adding it into the `\games` directory).
-Each directory is responsiple separate tasks.  
+Each directory is responsible for separate tasks.  
    
 `\Server` is the game server.  
-`\games` contains the payoff structure of the each games, so if you want to play your own game, you need locate
+`\games` contains the payoff structure of the each games, so if you want to play your own game, you need to locate
 a text file containing your game payoffs in this directory.   
 `\human` includes human client interface and some other files that are associated with automatic game settings.  
 `\logistics` has files for automatic game settings.  
@@ -49,7 +49,9 @@ The other parameters are the same as the game server, except for `'<YOURNICKNAME
 cd ../human
 python 33.py <GAMENAME> <ROUND NUMBERS> '<YOURNICKNAME> 1' 1 localhost
 ```  
-The same as above. Now, you should see the game as shown in the screen shot.
+The same as above. Now, you should see the game as shown in the screen shot. You may follow the annotated steps to play a game.   
+# Contact me:
+[tennomyathog@gmail.com](mailto:tennomgmail@gmail.com)
 
 
 
