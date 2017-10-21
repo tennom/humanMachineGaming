@@ -51,7 +51,7 @@ python 33.py <GAMENAME> <ROUND NUMBERS> '<YOURNICKNAME> 1' 1 localhost
 ```  
 The same as above. Now, you should see the game as shown in the screen shot. You may follow the annotated steps to play a game.   
 # Contact me:
-[tennomyathog@gmail.com](mailto:tennomgmail@gmail.com)
+[tennom@outlook.com](mailto:tennom@outlook.com)
 
 
 
